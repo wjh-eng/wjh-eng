@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wjh-eng
-- 👀 I’m interested in sports
+- 👀 I’m interested in movies
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on the project 
 - 📫 How to reach me wjh_tom@126.com
